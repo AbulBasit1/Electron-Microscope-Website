@@ -1,6 +1,4 @@
 # Electron-Microscope-Website
-# 🔬 Electron Microscope Website
-
 A responsive multi-page website explaining the principles and functionality of electron microscopes. Built with HTML and CSS, with interactive JavaScript elements to improve user engagement and navigation.
 
 ## Features
